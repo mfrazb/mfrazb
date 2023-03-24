@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning with The Odin Project's Fullstack JS path. 
+- 🌱 I’m currently learning with The Odin Project's Full Stack JS path. 
 - 👯 I’m looking to collaborate on practice and/or open source projects.
 - 🤔 I’m looking for help with reviewing practice projects. 
 
