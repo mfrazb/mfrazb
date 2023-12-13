@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on TBC, a food co-op grocery ordering and member management app. 
-- 🌱 I’m learning domain-driven design and how to design systems and build code from business requirements. 
+- 🌱 I’m learning domain-driven design and how to translate business requirements into code. 
 - 👯 I’m looking to collaborate on Hear Changes, an open source tool I'm developing for affordable housing professionals and community advocates to track rezoning hearings in neighborhoods. 
 
 <!--
